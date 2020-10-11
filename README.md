@@ -6,9 +6,13 @@
 
 
 文件说明
+
 backgroud.jpg :词云背景图片
+
 baidu_stopwords.txt :百度的停用词表
+
 cloud.png :生成的词云
+
 song_comments :网易云热榜200首歌的热评
 
 
